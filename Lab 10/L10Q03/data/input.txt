@@ -1,0 +1,3 @@
+Abcde
+Hello Everyone!
+I am solving question 3 of Polymorphism.
