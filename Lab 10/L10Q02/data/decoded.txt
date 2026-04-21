@@ -1,2 +1,0 @@
-Hello Everyone!
-I am solving the second question of Polymorphism.
